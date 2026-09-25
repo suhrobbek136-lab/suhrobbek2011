@@ -1,0 +1,40 @@
+<<Cuick tasks>> 
+Frontend
+
+Description:
+Mini ToDo App with MERN Stack
+
+Steps:
+1: Create folder ✅
+2: Create server and install (axios react-router-dom) ✅
+3: Build tree ✅
+4: Create .jsx files ✅
+5: create axios.js ✅
+6: create useAxios.jsx custom hook
+7: Create brovser router at main ✅
+8: Create ProtectToken.jsx ✅
+9: Create Router
+10: Create Register and check
+11: Create Login and check
+12: Create Dashboard
+13: Create Home page
+14: Create needed components
+15: Build Home page
+16: Build Xistory page
+17: Final Test
+
+
+
+
+Notes:
+//
+
+Map of Forgot Password:
+
+Login
+Forgot Password
+Email kiritish
+Emailga nodemailer orqali link yuboriladi Reset password
+Linkni bosasan
+Yangi parol kiritasan
+pasword yangilanadi
